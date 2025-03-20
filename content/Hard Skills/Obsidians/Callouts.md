@@ -1,4 +1,3 @@
-### **Callouts**
 
 
 > [!note]
